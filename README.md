@@ -1,5 +1,5 @@
 # anonymus-web 
-* It's a tool that makes it easier than ever to stay anonymous on your website and access the deepweb.
+* It's a tool that makes it easier than ever to stay anonymous on your website and access the deepweb. ( support os packaget run apt )
 
 How to install this tools :
 
