@@ -61,7 +61,7 @@ def change():
 os.system("clear")
 print("\033[1;40;31m                               [!] please runing tools ussing sudo !!!\n")
 time.sleep(5)
-os.system("cler")
+os.system("clear")
 print('''\033[1;32;40m \n
 
 ▄▄▌ ▐ ▄▌▄▄▄ .▄▄▄▄·      ▄▄▄·  ▐ ▄        ▐ ▄  ▄· ▄▌• ▌ ▄ ·. ▄• ▄▌.▄▄ · 
