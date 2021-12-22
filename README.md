@@ -10,5 +10,5 @@ How to install this tools :
 
 
 
-![Screenshot (68)](https://user-images.githubusercontent.com/95524638/147030992-5e0bb688-7204-4266-a04d-32941e980560.png)
-![tor-check-setting](https://user-images.githubusercontent.com/95524638/147031009-b01617d9-c890-4c22-8292-6444e9866667.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/95524638/147031927-4b64c063-bf3d-4c3c-a8b5-1557b7732a3f.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/95524638/147031930-b6a18276-6abc-41fc-b709-f9c1feeb9f7e.png)
