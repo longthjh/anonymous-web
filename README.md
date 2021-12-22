@@ -3,7 +3,7 @@
 
 How to install this tools :
 
-* [ 1 ] Installation work is simpler than ever when you just run the tool 
+* [ 1 ] Runing tools whith pythoon3 , Installation work is simpler than ever when you just run the tool 
 * [ ! ] please running with sudo permissions
 
 * [ 2 ] The tool will automatically take you to a security check
